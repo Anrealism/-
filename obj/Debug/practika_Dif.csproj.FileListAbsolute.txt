@@ -1,0 +1,6 @@
+C:\Users\nepro\source\repos\practika_Dif\bin\Debug\practika_Dif.exe.config
+C:\Users\nepro\source\repos\practika_Dif\bin\Debug\practika_Dif.exe
+C:\Users\nepro\source\repos\practika_Dif\bin\Debug\practika_Dif.pdb
+C:\Users\nepro\source\repos\practika_Dif\obj\Debug\practika_Dif.csprojAssemblyReference.cache
+C:\Users\nepro\source\repos\practika_Dif\obj\Debug\practika_Dif.exe
+C:\Users\nepro\source\repos\practika_Dif\obj\Debug\practika_Dif.pdb
